@@ -70,38 +70,62 @@ All modes are disabled by default and require explicit activation in test enviro
 
 > **Important:** The videos/images referenced here are **illustrative concept clips** (icons/placeholders). They **do not** represent a finished or publicly deployable system — they are planned examples showing how features could behave in a controlled test setup. Use of disruptive modes is subject to legal and ethical restrictions as described above.
 
-E
-### 1) Distributed Deauthentication 
+### 1) Distributed Deauthentication
 
-**Summary:** An illustrative clip showing the Commander issuing simultaneous deauthentication commands to three Agents, each targeting a different Wi‑Fi network. Demonstrates parallel task distribution and synchronized execution.
 
-<!-- VIDEO/ICON 1 -->
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <p><strong>Summary:</strong> An illustrative clip showing the Commander issuing simultaneous deauthentication commands to three Agents, each targeting a different Wi-Fi network. Demonstrates parallel task distribution and synchronized execution.</p>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <img src="https://github.com/7yasin/esp-synapse/blob/main/readme-assets/1.gif" width="400"/>
+    </td>
+  </tr>
+</table>
 
-[![Concept 1 Thumbnail](videos/concept1_thumbnail.png)](videos/concept1.mp4)
 
 ### 2) Cooperative Power Scaling 
 
-**Summary:** Concept clip showing cooperative load‑sharing — initially one Agent fails to affect a strong network, but after coordination, multiple Agents jointly complete the task. Illustrates teamwork and adaptive response.
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <p><strong>Summary:</strong> Concept clip showing cooperative load‑sharing — initially one Agent fails to affect a strong network, but after coordination, multiple Agents jointly complete the task. Illustrates teamwork and adaptive response.</p>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <img src="https://github.com/7yasin/esp-synapse/blob/main/readme-assets/2.gif" width="400"/>
+    </td>
+  </tr>
+</table>
 
-<!-- VIDEO/ICON 2 -->
-
-[![Concept 2 Thumbnail](videos/concept2_thumbnail.png)](videos/concept2.mp4)
 
 ### 3) Concurrent Sensing & Reporting 
 
-**Summary:** Illustrative clip showing multiple Agents simultaneously monitoring multiple networks and relaying telemetry to the Commander. Demonstrates the intended multi‑channel sensing design.
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <p><strong>Summary:</strong>  Illustrative clip showing multiple Agents simultaneously monitoring multiple networks and relaying telemetry to the Commander. Demonstrates the intended multi‑channel sensing design.</p>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <img src="https://github.com/7yasin/esp-synapse/blob/main/readme-assets/3.gif" width="400"/>
+    </td>
+  </tr>
+</table>
 
-<!-- VIDEO/ICON 3 -->
-
-[![Concept 3 Thumbnail](videos/concept3_thumbnail.png)](videos/concept3.mp4)
 
 ### 4) Heterogeneous ESP Interoperability 
 
-**Summary:** Placeholder clip showing ESP8266 and ESP32 devices exchanging data and coordinating tasks — proving cross‑generation compatibility purely via software.
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <p><strong>Summary:</strong> Placeholder clip showing ESP8266 and ESP32 devices exchanging data and coordinating tasks — proving cross‑generation compatibility purely via software.</p>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <img src="https://github.com/7yasin/esp-synapse/blob/main/readme-assets/4.gif" width="400"/>
+    </td>
+  </tr>
+</table>
 
-<!-- VIDEO/ICON 4 -->
-
-[![Concept 4 Thumbnail](videos/concept4_thumbnail.png)](videos/concept4.mp4)
 
 ---
 
